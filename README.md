@@ -1,12 +1,13 @@
 # Google-Apps-Rating-Analysis-
 
-Background
+## Background
 
 Free or Paid Apps, Rates of Google Play Store Users.
-Users download apps for various usage purposes. Given that paid service is usually better at offering pleasant experience, and that free apps are more accesible to everyone, what are the user opinions towards these apps?
+
+Users download apps for various usage purposes. Given that paid service is usually better at offering pleasant experience, and that free apps are more accesible to everyone, what are the user opinions towards these apps and ratings?
 
 
-About this File:-
+## About this File:-
 
 Tha dataset from Kaggle
 
@@ -37,3 +38,5 @@ Last Updated: Date when the app was last updated on Play Store (as when scraped)
 Current Ver: Current version of the app available on Play Store (as when scraped)
 
 Android Ver: Min required Android version (as when scraped)
+
+Targeted column: Ratings
