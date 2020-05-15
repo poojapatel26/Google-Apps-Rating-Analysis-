@@ -3,13 +3,13 @@
 This is data science project of predicing Apps ratings on Google Play Store Apps Dataset.
 
 ## Table of contents
-1. [Installation]()
+1. [Installation](https://github.com/poojapatel26/Google-Apps-Rating-Analysis-/blob/master/README.md#installation)
 
-2. [Project Motivation]()
+2. [Project Motivation](https://github.com/poojapatel26/Google-Apps-Rating-Analysis-/blob/master/README.md#project-motivation)
 
-3. [File Description]()
+3. [File Description](https://github.com/poojapatel26/Google-Apps-Rating-Analysis-/blob/master/README.md#file-descriptions)
 
-4. [Licensing, Authors, and Acknowledgements]()
+4. [Licensing, Authors, and Acknowledgements](https://github.com/poojapatel26/Google-Apps-Rating-Analysis-/blob/master/README.md#licensing-authors-acknowledgements)
 
 ## Installation
 
