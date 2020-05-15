@@ -25,7 +25,7 @@ For this project, I was interestested in using Google Play Store Apps dataset to
 
 ## File Descriptions
 
-There is one notebook available here and its gives answers to all the above questions and it also predict the App ratings.
+There are two files, one notebook gives answers to all the above questions and it also predict the App ratings and another contains the dataset csv file.
 
 ## Licensing, Authors, Acknowledgements
 
